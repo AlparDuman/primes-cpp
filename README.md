@@ -1,7 +1,8 @@
 ## Contents
-* [autoEndTask](#autoendtask)
-* [oldMenu](#oldmenu)
-* [Powershell commands](#powershell-commands)
+* [Description](#description)
+* [Why did i made this](#why-did-i-made-this)
+* [Optional progress tracker](#optional-progress-tracker)
+* [Demo](#demo)
 
 ## Description
 A class that offers methods to checks a single number to see if it is a prime number or returns a list of prime numbers in a certain range. Depending on the range, instead of checking each number separately, [sieve of Eratosthenes](https://de.wikipedia.org/wiki/Sieb_des_Eratosthenes) is used for acceleration.
