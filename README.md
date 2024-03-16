@@ -18,7 +18,7 @@ I wanted to practice [asynchronous threading](https://en.cppreference.com/w/cpp/
 On creation as new object or afterwards via a method, the optional progress tracker can be enabled or disabled. Enabling has an impact on performance and tracks linear to the given range.
 
 ## Demo
-This view shows the terminal view with an excerpt from the Task Manager, which are simultaneously recorded by OBS:
+This view shows the terminal view with an excerpt from the Task Manager, which are simultaneously recorded by OBS. The result of the interval method is 1 less, because it has to skip the first prime number 2 on initialization, else the get() method would use [sieve of Eratosthenes](https://de.wikipedia.org/wiki/Sieb_des_Eratosthenes) instead.
 
 ![demonstration terminal & task manager](https://github.com/AlparDuman/primes-cpp/blob/main/demonstration.gif)
 
