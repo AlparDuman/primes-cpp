@@ -34,7 +34,7 @@ int main()
     std::cout << "   \\  \\:\\      \\  \\:\\          /__/:/    \\  \\:\\        \\  \\:\\/:/     \\__\\/ /:/  " << std::endl;
     std::cout << "    \\  \\:\\      \\  \\:\\         \\__\\/      \\  \\:\\        \\  \\::/        /__/:/   " << std::endl;
     std::cout << "     \\__\\/       \\__\\/                     \\__\\/         \\__\\/         \\__\\/    " << std::endl;
-    std::cout << std::endl << " v1.0 | GPL-3.0 license | https://github.com/alparduman | Press [enter] to start";
+    std::cout << std::endl << " v1.1 | GPL-3.0 license | https://github.com/alparduman | Press [enter] to start";
     std::cin.ignore();
     
     system("cls");
