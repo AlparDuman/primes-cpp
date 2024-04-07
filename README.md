@@ -18,8 +18,8 @@
 <p align="justify">On creation as new object or afterwards via a method, the optional progress tracker can be enabled or disabled. Enabling has an impact on performance and tracks linear to the given range.</p>
 
 ## Demo
-<p align="justify">This view shows the Terminal with an excerpt from the Task Manager, which are simultaneously recorded by <a href="https://obsproject.com/">OBS</a>. The result of the interval method is 1 less, because it has to skip the first prime number 2 on initialization, else the get() method would use sieve of Eratosthenes instead.</p>
+<p align="justify">Demo run without progress tracking on <a href="https://ark.intel.com/content/www/de/de/ark/products/212047/intel-core-i7-11700k-processor-16m-cache-up-to-5-00-ghz.html">i7 11700k</a> (default cpu uefi settings). The result of the interval method is 1 less, because it has to skip the first prime number 2 on initialization, else the get() method would use sieve of Eratosthenes instead.</p>
 
-![demonstration terminal & task manager](https://github.com/AlparDuman/primes-cpp/blob/main/demonstration.gif)
+![demonstration terminal & task manager](https://github.com/AlparDuman/primes-cpp/blob/main/demo.png)
 
 <p align="justify">Want to try for yourself? Get the it <a href="https://github.com/AlparDuman/primes-cpp/releases">here</a>.</p>
