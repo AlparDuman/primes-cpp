@@ -1,8 +1,13 @@
-## Contents
-* [Description](#description)
-* [Why have I made this](#why-have-i-made-this)
-* [Optional progress tracker](#optional-progress-tracker)
-* [Demo](#demo)
+# Primes C++
+
+Generate primes in cpp, thats all :)
+
+| Table of Contents |
+| - |
+| [Description](#description) |
+| [Why have I made this](#why-have-i-made-this) |
+| [Optional progress tracker](#optional-progress-tracker) |
+| [Demo](#demo) |
 
 ## Description
 <p align="justify">A class that offers methods to check a single number to see if it is a prime number or returns a list of prime numbers in a certain range. Depending on the range, instead of checking each number separately, <a href="https://de.wikipedia.org/wiki/Sieb_des_Eratosthenes">sieve of Eratosthenes</a> is used for acceleration.</p>
