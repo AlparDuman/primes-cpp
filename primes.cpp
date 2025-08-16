@@ -1,5 +1,21 @@
-// Repository https://github.com/AlparDuman/primes-cpp
-// GNU General Public License v3.0 https://github.com/AlparDuman/primes-cpp/blob/main/LICENSE
+/*
+    Copyright (C) 2024 Alpar Duman
+    This file is part of primes-cpp.
+
+    video-converter-javascript is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License version 3 as
+    published by the Free Software Foundation.
+
+    video-converter-javascript is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with video-converter-javascript. If not, see
+    <https://github.com/AlparDuman/primes-cpp/blob/main/LICENSE>
+    else <https://www.gnu.org/licenses/>.
+*/
 
 #include "primes.h"
 
@@ -283,3 +299,4 @@ void Primes::sieves(uint64_t limit)
     if (showProgress)
         progress = 0;
 }
+
